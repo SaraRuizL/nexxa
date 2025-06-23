@@ -12,15 +12,15 @@
     }
 
 
-/* header {
+ header {
   display: flex;
   align-items: center;
-  background-color: var(--color-primario);
+  background-color: var(--bg-primary);
   color: white;
   padding: 10px 20px;
 }
 
-header .logo {
+/*header .logo {
   height: 60px;
   margin-right: 20px;
 }
@@ -61,7 +61,7 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #ccc;
 }
-
+*/
 main {
   padding: 20px;
   text-align: center;
@@ -72,9 +72,9 @@ main section {
 }
 
 main h2 {
-  color: var(--color-primario);
+  color: var(--bg-primary);
 }
-
+*/
 .galeria-container {
   display: flex;
   justify-content: center;
@@ -93,9 +93,3 @@ main h2 {
   transform: scale(1.05);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
-footer {
-  background-color: var(--color-neutro);
-  color: #333333;
-  padding: 10px;
-  text-align: center;
-} */
